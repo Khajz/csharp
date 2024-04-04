@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Muhasebev2/1.0.0": {
+        "runtime": {
+          "Muhasebev2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Muhasebev2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
